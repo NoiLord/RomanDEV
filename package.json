@@ -1,0 +1,13 @@
+{
+  "name": "roman-digital-studio",
+  "version": "2.0.1",
+  "private": true,
+  "type": "module",
+  "description": "Личный сайт Романа — разработка и цифровые товары",
+  "scripts": {
+    "dev": "node server.mjs",
+    "start": "node server.mjs",
+    "build": "node build.mjs",
+    "test": "node tests.mjs"
+  }
+}
